@@ -1,6 +1,6 @@
-# 👓 GlassyFi – Real-Time Glasses Face Filter with Python
+# 👓 GlassiFy – Real-Time Glasses Face Filter with Python
 
-GlassyFi is a fun real-time face filter project that overlays virtual glasses on your face using Python, OpenCV, and MediaPipe.
+GlassiFy is a fun real-time face filter project that overlays virtual glasses on your face using Python, OpenCV, and MediaPipe.
 
 
 
@@ -29,8 +29,8 @@ GlassyFi is a fun real-time face filter project that overlays virtual glasses on
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/GlassyFi.git
-   cd GlassyFi
+   git clone https://github.com/nerdyalgorithm/GlassiFy.git
+   cd GlassiFy
 2. Install dependencies:
 
 pip install opencv-python mediapipe numpy
